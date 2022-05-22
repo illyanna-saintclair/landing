@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans:ital@0;1&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #F9F8F8;
+}
+
+h1, h2, h3 {
+	font-family: 'Bebas Neue', cursive;
+	font-weight: bold;
+	color:  #C64191;
+}
+
+a{
+	text-decoration: none;
+}
